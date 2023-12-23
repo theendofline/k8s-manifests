@@ -1,4 +1,4 @@
-**This YAML configuration represents a `ReplicaSet` object in Kubernetes.** 
+**This YAML configuration `simple-nginx-workload.yaml` represents a `ReplicaSet` object in Kubernetes.** 
 A ReplicaSet is used to maintain a stable set of replica Pods running at any given time. Here's a breakdown of the key components in this configuration:
 
 - **API Version and Kind:** Indicates the API version (`apps/v1`) and the kind of Kubernetes object (`ReplicaSet`).
